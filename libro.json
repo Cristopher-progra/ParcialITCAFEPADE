@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "6420b0523137d41357a6f0af"
+  },
+  "titulo": "Las ballenas",
+  "autor": "Jorge Sanchez",
+  "editorial": "Vivir",
+  "fecha_publicacion": "23/09/1998",
+  "genero": "Terror"
+},{
+  "_id": {
+    "$oid": "6420b6879043ab336fd3aad0"
+  },
+  "titulo": " Cien años de soledad",
+  "autor": "Gabriel Garcia Marquez",
+  "editorial": "Editorial Sudamericano",
+  "fecha_publicacion": "08/02/1967",
+  "genero": "Realismo Magico"
+},{
+  "_id": {
+    "$oid": "6420bad533176626a0b8c3ea"
+  },
+  "titulo": "El nombre de la rosa",
+  "autor": "Umbert eco",
+  "editorial": "Lumen",
+  "fecha_publicacion": "05/06/1980",
+  "genero": "Misterio"
+},{
+  "_id": {
+    "$oid": "6420cb505a746db96fb259db"
+  },
+  "titulo": "Mariposa",
+  "autor": "Jorge Damicela",
+  "editorial": "Editorial Sudamericana",
+  "fecha_publicacion": "15/09/1985",
+  "genero": "Magico"
+},{
+  "_id": {
+    "$oid": "6420cc7c5a746db96fb259dc"
+  },
+  "titulo": "La soledad",
+  "autor": "Alfredo Olivas Bueno",
+  "editorial": "Vive",
+  "fecha_publicacion": "18/09/1989",
+  "genero": "Realismo"
+},{
+  "_id": {
+    "$oid": "6420cd125a746db96fb259dd"
+  },
+  "titulo": "La noche Triste",
+  "autor": "Umberto Eco",
+  "editorial": "Lumen",
+  "fecha_publicacion": "03/08/1982",
+  "genero": "Misterio"
+},{
+  "_id": {
+    "$oid": "6420cdf15a746db96fb259de"
+  },
+  "titulo": "Un dia despues",
+  "autor": "Gregorio Rosas",
+  "editorial": "La ultima",
+  "fecha_publicacion": "03/09/2005",
+  "genero": "Ficcion Politica"
+},{
+  "_id": {
+    "$oid": "6420ce855a746db96fb259df"
+  },
+  "titulo": "Muerte de ayer",
+  "autor": "Carlos Samuel Alvares",
+  "editorial": "Editorial sudamericano",
+  "fecha_publicacion": "05/08/2020",
+  "genero": "Terror"
+},{
+  "_id": {
+    "$oid": "64211c896f9c1c956ffd06cc"
+  },
+  "titulo": "Casa sola",
+  "autor": "Edwin Morgan",
+  "editorial": "Sobrevive",
+  "fecha_publicacion": "22/02/2022",
+  "genero": "Terror"
+}]
